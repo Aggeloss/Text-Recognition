@@ -1,0 +1,6 @@
+C:\Users\aggel\source\repos\Text Recognition 1.0.0\Text Recognition 1.0.0\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\aggel\source\repos\Text Recognition 1.0.0\Text Recognition 1.0.0\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\aggel\source\repos\Text Recognition 1.0.0\Text Recognition 1.0.0\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\aggel\source\repos\Text Recognition 1.0.0\Text Recognition 1.0.0\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Vision.Common.dll.stamp
+C:\Users\aggel\source\repos\Text Recognition 1.0.0\Text Recognition 1.0.0\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Vision.dll.stamp
+C:\Users\aggel\source\repos\Text Recognition 1.0.0\Text Recognition 1.0.0\obj\Debug\Text Recognition 1.0.0.csprojAssemblyReference.cache
